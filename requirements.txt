@@ -1,5 +1,4 @@
 numpy
-time
 json
 math
 matplotlib
