@@ -1,5 +1,5 @@
 numpy
-math
+pandas
 matplotlib
 ipywidgets
 jupyter_ui_poll
