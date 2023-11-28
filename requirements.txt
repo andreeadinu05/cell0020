@@ -1,5 +1,4 @@
 numpy
-json
 math
 matplotlib
 ipywidgets
